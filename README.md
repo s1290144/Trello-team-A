@@ -6,7 +6,7 @@ We can't submit result.
 
 Program changes to solve the problem:
 
-At fast, I tried to run the program taken from github with the dataset, but it did not output any error messages. However, there was no output either.
+At first, I tried to run the program taken from github with the dataset, but it did not output any error messages. However, there was no output either.
 
 (1) I changed [open("childrenStory.txt").read()] to [open("childrenStory.txt","r")] in line 527 of the program.
 But, there was no output and no error messages.
