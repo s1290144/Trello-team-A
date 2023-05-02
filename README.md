@@ -2,7 +2,7 @@
 
 Dataset is "childrenStory.txt".
 
-We can't submit result.
+We can't submit result(output).
 
 Program changes to solve the problem:
 
