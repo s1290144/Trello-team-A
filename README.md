@@ -13,6 +13,4 @@ But, there was no output and no error messages.
 
 (2) Also, I added the name of the directory before the filename and ran it, but it did not show any output and error messages as in ().
 
-(3) I attempted to change the part of main-code that seemed to be wrong further, but the function was already completed and I could not change the program in the function badly.
-
-So, we can't.
+(3) I attempted to change the part of main-code that seemed to be wrong further, but the function was already completed and I could not change the program in the function.
