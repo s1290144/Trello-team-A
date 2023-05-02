@@ -524,7 +524,7 @@ def Analysis(vector, K=2):
 if __name__ == '__main__':
 
     # You can try any text file here
-    text = open("DocumentWithVariantWritingStyles.txt","r")
+    text = open("childrenStory.txt","r")
 
     vector = FeatureExtration(text, winSize=10, step=10)
     ElbowMethod(np.array(vector))
