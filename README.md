@@ -1,5 +1,7 @@
 # Trello team F
 
+Dataset is "childrenStory.txt".
+
 We couldn't submit result.
 
 Program changes we made to solve the problem:
