@@ -4,7 +4,8 @@ Dataset is "childrenStory.txt".
 
 We couldn't submit result.
 
-Program changes we made to solve the problem:
+Program changes to solve the problem:
+
 At fast, I tried running the program taken from github with the dataset, but it did not output any error messages. However, there was no output either.
 
 (1) I changed [open("childrenStory.txt").read()] to [open("childrenStory.txt","r")] in line 527 of the program.
