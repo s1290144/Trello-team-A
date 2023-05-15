@@ -1,4 +1,4 @@
-Commant: python3 attribution.py --words ./testdata/emma.txt
+Commant: python3 attribution.py --words ./dataset/test/emma.txt
 
 Output:
 
