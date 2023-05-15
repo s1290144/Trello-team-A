@@ -2,4 +2,4 @@
 
 Dataset is the directory "dataset".
 
-Outpus are "output_emma.txt" and "output_second-junglebook.txt" in the directory "Outputs".
+Outpus are "output_test_1.txt" and "output_test_2.txt" in the directory "Outputs".
