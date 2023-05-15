@@ -1,4 +1,4 @@
-Commant: python3 attribution.py --words ~/dataset/test/second-junglebook.txt
+Commant: python3 attribution.py --words ./testdata/second-junglebook.txt
 
 Output:
 
