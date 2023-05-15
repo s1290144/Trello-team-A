@@ -1,5 +1,5 @@
 # Trello team F
 
-Dataset are "testdata".
+Dataset is the directory "dataset".
 
-Outpus are "output_emma.txt" and "output_second-junglebook.txt" in the folder "Outputs".
+Outpus are "output_emma.txt" and "output_second-junglebook.txt" in the directory "Outputs".
