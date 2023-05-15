@@ -2,7 +2,7 @@ import os
 
 def get_documents(feature_type,ngram_size):
     documents = {}
-    files = [os.path.join('./dataset/training/', f) for f in os.listdir('./dataset/training/') if os.path.isfile(os.path.join('./dataset/training/', f))]
+    files = [os.path.join('./dataset/trainingdata/', f) for f in os.listdir('./dataset/trainingdata/') if os.path.isfile(os.path.join('./dataset/trainingdata/', f))]
     for f in files:
         if feature_type == "chars":
             author, doc_length, words = process_document_ngrams(f,ngram_size)
