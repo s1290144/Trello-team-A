@@ -1,18 +1,4 @@
-"""Authorship Attribution
-
-Usage:
-  attribution.py --words <filename>
-  attribution.py --chars=<n> <filename>
-  attribution.py (-h | --help)
-  attribution.py --version
-
-Options:
-  -h --help     Show this screen.
-  --version     Show version.
-  --words
-  --chars=<n>  Length of char ngram.
-
-"""
+"""Authorship Attribution"""
 
 import sys
 import os
